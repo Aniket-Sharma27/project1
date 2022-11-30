@@ -1,6 +1,6 @@
 # exploratory_data_analysis_week1
- Name : Cherish Mahajan
- Roll No. : 102003647
+ Name : Aniket Sharma
+ Roll No. : 102003643
  
 Peer-graded Assignment: Course Project 1
 Introduction
